@@ -1,10 +1,11 @@
 <h1 align="center">Salve 🤙 Eu sou o Henrikk! Prazer!</h1>
 <h3 align="center">Sou desenvolvedor de BOTS!</h3>
 
+- ⭐ Programo em: JS e NodeJS.
+
+
 - 🔭 Trabalhando na [Resource Store](https://discord.gg/S5EX5wwAcH) (Mods p/ MTA) 
-
 - 🎃 Fundador do [Sintonia Roleplay](https://discord.gg/QXFTenxN29) (MTA)
-
 - 🛒 Discord Manager há 3 anos
 
 
