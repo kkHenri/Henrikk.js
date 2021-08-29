@@ -13,7 +13,7 @@
 
 ---
 <div align=center>
-  <h3><b>📍 Visitantes Count</b></h3>
+  <h3><b>📍 Contagem Visitantes</b></h3>
 </div>
 
 <p align="center" >   
