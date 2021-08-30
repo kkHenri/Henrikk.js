@@ -12,6 +12,9 @@
 <h3 align="left">Linguanges & Ferramentas:</h3>
 <img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/darshanr27/darshanr27/blob/master/Assets/visual-studio-code.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://github.com/darshanr27/darshanr27/blob/master/Assets/javascript.png" />
+<br />
+
+<br />
 
 ---
 <div align=center>
