@@ -1,9 +1,8 @@
-<h1 align="center">Salve 🤙 Eu sou o Henrikk! Prazer!</h1>
+### Salve 🤙 Eu sou o Henrikk! Prazer! <img src="https://github.com/darshanr27/darshanr27/blob/master/Assets/Hi.gif" width="22px">
+
 ---
-<h3 align="center">Sou desenvolvedor de BOTS!</h3>
 
 - ⭐ Programo em: JavaScript e NodeJS.
-
 
 - 🔭 Trabalhando na [Resource Store](https://discord.gg/S5EX5wwAcH) (Mods p/ MTA) 
 - 🎃 Fundador do [Sintonia Roleplay](https://discord.gg/QXFTenxN29) (MTA)
