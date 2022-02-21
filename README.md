@@ -3,7 +3,8 @@
 ---
 
 - ⭐ Programo em: JavaScript e NodeJS.
-- 🔭 **Trabalhando na [Resource Store](https://discord.gg/S5EX5wwAcH)** ( SCRIPTS MTA / BOTS DISCORD / OUTROS )
+- 🔭 **Trabalhando na [Resource Store](https://discord.gg/UGRkZyRGxB)** ( SCRIPTS MTA / BOTS DISCORD / OUTROS )
+- 💢 **Owner** **[Recanto dos Crias](https://discord.gg/recanto)** ( COMUNIDADE CONVERSA E JOGOS )
 
 
 <h3 align="left">Linguanges & Ferramentas:</h3>
