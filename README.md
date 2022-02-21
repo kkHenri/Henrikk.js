@@ -3,10 +3,7 @@
 ---
 
 - ⭐ Programo em: JavaScript e NodeJS.
-
-- 🔭 **Trabalhando na [Resource Store](https://discord.gg/S5EX5wwAcH)** (Mods p/ MTA)
-- 🎃 **Fundador do [Sintonia Roleplay](https://discord.gg/QXFTenxN29)** (MTA)
-- 🛒 Discord Manager há 3 anos
+- 🔭 **Trabalhando na [Resource Store](https://discord.gg/S5EX5wwAcH)** ( SCRIPTS MTA / BOTS DISCORD / OUTROS )
 
 
 <h3 align="left">Linguanges & Ferramentas:</h3>
