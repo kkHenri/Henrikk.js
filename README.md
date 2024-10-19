@@ -3,9 +3,7 @@
 ---
 
 - ⭐ Programo em: JavaScript e NodeJS.
-- 🔭 **Trabalhando na [Resource Store](https://discord.gg/UGRkZyRGxB)** ( SCRIPTS MTA / BOTS DISCORD / OUTROS )
-- 💢 **Owner** **[Recanto dos Crias](https://discord.gg/recanto)** ( COMUNIDADE CONVERSA E JOGOS )
-
+- 🔭 **Trabalhando na [Resource Store](https://discord.gg/UGRkZyRGxB)**
 
 <h3 align="left">Linguanges & Ferramentas:</h3>
 <img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/darshanr27/darshanr27/blob/master/Assets/visual-studio-code.png" />
