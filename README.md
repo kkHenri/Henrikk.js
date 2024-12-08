@@ -1,9 +1,9 @@
-### Salve 🤙 Eu sou o Henrikk! Prazer! <img src="https://github.com/darshanr27/darshanr27/blob/master/Assets/Hi.gif" width="22px">
+### Olá! Eu sou o Henrikk! Prazer! <img src="https://github.com/darshanr27/darshanr27/blob/master/Assets/Hi.gif" width="22px">
 
 ---
 
 - ⭐ Programo em: JavaScript e NodeJS.
-- 🔭 **Trabalhando na [Resource Store](https://discord.gg/UGRkZyRGxB)**
+- 🔭 **Projetos:** Magma Roleplay & VultureHost
 
 <h3 align="left">Linguanges & Ferramentas:</h3>
 <img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/darshanr27/darshanr27/blob/master/Assets/visual-studio-code.png" />
